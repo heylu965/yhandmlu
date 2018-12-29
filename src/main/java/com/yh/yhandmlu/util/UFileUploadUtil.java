@@ -9,8 +9,6 @@ import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
 /**
- * copy from link:
- * http://gitlab.qima-inc.com/pay-platform/customercenter/blob/feature/giftcard_v1/core/src/main/java/com/youzan/pay/customercenter/core/utils/ufile/UFileUploadUtil.java
  *
  * @author chunxiao
  * @since 2018/5/17.
