@@ -116,6 +116,21 @@
 			<version>2.4.0</version>
 		</dependency>
 
+		<!-- https://mvnrepository.com/artifact/cglib/cglib -->
+		<!--<dependency>
+			<groupId>cglib</groupId>
+			<artifactId>cglib</artifactId>
+			&lt;!&ndash;<version>2.2.2</version>&ndash;&gt;
+			<version>3.2.4</version>
+		</dependency>-->
+
+		<dependency>
+			<groupId>cglib</groupId>
+			<artifactId>cglib-nodep</artifactId>
+			<version>3.2.8</version>
+		</dependency>
+
+
 	</dependencies>
 
 	<build>
